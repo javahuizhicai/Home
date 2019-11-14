@@ -12,5 +12,6 @@ public class Admin {
 		System.out.println("1000000000000000");
 		System.out.println("买家秀卡美女福利单飞了加拿大酸辣粉你");
 		System.out.println("测试分支操作");
+		System.out.println("测试分支操作1");
 	}
 }
