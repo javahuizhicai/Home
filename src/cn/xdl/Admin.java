@@ -10,5 +10,6 @@ public class Admin {
 		System.out.println("这是惠治财更改的3");
 		System.out.println("这是惠治财更改的999");
 		System.out.println("1000000000000000");
+		System.out.println("买家秀卡美女福利单飞了加拿大酸辣粉你");
 	}
 }
