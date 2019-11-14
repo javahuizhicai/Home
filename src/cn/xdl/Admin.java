@@ -8,5 +8,6 @@ public class Admin {
 		System.out.println("这是惠治财更改的");
 		System.out.println("这是惠治财更改的2");
 		System.out.println("这是惠治财更改的3");
+		System.out.println("这是惠治财更改的999");
 	}
 }
