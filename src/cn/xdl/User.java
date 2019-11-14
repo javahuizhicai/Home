@@ -6,6 +6,8 @@ public class User {
 		System.out.println("User");
 		System.out.println("User");
 		System.out.println("这是惠治财更改的内容");
+		System.out.println("这是惠治财更改的内容2");
+		System.out.println("这是惠治财更改的内容3");
 	}
 
 }
