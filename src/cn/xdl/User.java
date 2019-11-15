@@ -20,4 +20,5 @@ public class User {
 	System.out.println("这是惠治财更改的内容888");
 >>>>>>> branch 'master' of https://github.com/javahuizhicai/Home.git
 	System.out.println("这是惠治财更改的内容9999999999999999");
+	System.out.println("20:55");
 }
